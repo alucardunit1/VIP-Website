@@ -1,9 +1,9 @@
 # VIP-Website
 CodeX Night5
 
-##A lil bit of markdown
+## A lil bit of markdown
 `Code Snippet`
 UL
--one
--two
--three
+- one
+- two
+- three
